@@ -1,0 +1,22 @@
+Squirtle
+water
+98
+129
+44
+43
+Tackle
+normal
+40
+70
+Water Gun
+water
+40
+70
+Hydro Pump
+water
+110
+50
+Water Pulse
+water
+60
+70

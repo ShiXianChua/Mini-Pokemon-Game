@@ -1,0 +1,22 @@
+Oshawott
+water
+118
+90
+55
+45
+Tackle
+normal
+40
+70
+Water Gun
+water
+40
+70
+Hydro Pump
+water
+110
+50
+Aqua Tail
+water
+90
+60

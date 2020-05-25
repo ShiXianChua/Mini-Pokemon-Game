@@ -1,0 +1,22 @@
+Piplup
+water
+111
+109
+53
+40
+Pound
+normal
+40
+70
+Bubble
+water
+40
+70
+Hydro Pump
+water
+110
+50
+Bubble Beam
+water
+65
+70

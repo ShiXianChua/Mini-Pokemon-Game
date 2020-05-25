@@ -1,0 +1,22 @@
+Bulbasaur
+grass
+114
+114
+45
+45
+Vine Whip
+grass
+45
+70
+Tackle
+normal
+40
+70
+Razor Leaf
+grass
+55
+65
+Seed Bomb
+grass
+80
+70

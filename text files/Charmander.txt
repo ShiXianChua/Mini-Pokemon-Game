@@ -1,0 +1,22 @@
+Charmander
+fire
+112
+93
+39
+65
+Scratch
+normal
+40
+70
+Ember
+fire
+40
+70
+Fire Fang
+fire
+65
+65
+Slash
+normal
+70
+70

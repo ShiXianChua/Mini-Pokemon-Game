@@ -1,0 +1,22 @@
+Tepig
+fire
+108
+90
+65
+45
+Tackle
+normal
+40
+70
+Ember
+fire
+40
+70
+Flare Blitz
+fire
+120
+70
+Flamethrower
+fire
+90
+70

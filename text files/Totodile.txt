@@ -1,0 +1,22 @@
+Totodile
+water
+109
+112
+50
+43
+Scratch
+normal
+40
+70
+Water Gun
+water
+40
+70
+Aqua Tail
+water
+90
+60
+Slash
+normal
+70
+70

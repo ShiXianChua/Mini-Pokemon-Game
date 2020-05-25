@@ -1,0 +1,22 @@
+Turtwig
+grass
+113
+119
+55
+31
+Tackle
+normal
+40
+70
+Razor Leaf
+grass
+55
+65
+Leaf Storm
+grass
+130
+60
+Cut
+normal
+50
+65

@@ -1,0 +1,22 @@
+Chikorita
+grass
+98
+130
+45
+45
+Tackle
+normal
+40
+70
+Razor Leaf
+grass
+55
+65
+Magical Leaf
+grass
+60
+100
+Body Slam
+normal
+85
+70

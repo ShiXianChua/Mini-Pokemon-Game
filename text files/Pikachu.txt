@@ -1,0 +1,22 @@
+Pikachu
+electric
+112
+96
+50
+60
+Quick Attack
+normal
+30
+70
+Thunder Shock
+electric
+40
+80
+Thunderbolt
+electric
+80
+60
+Discharge
+electric
+70
+70

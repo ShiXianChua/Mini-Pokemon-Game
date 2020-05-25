@@ -1,0 +1,22 @@
+Snivy
+grass
+90
+110
+45
+63
+Tackle
+normal
+40
+70
+Vine Whip
+grass
+45
+70
+Leaf Blade
+grass
+90
+70
+Leaf Storm
+grass
+130
+60
